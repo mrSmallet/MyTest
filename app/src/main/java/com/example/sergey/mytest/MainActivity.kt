@@ -16,8 +16,8 @@ class MainActivity : Activity(), View.OnClickListener{
         }
 
     }
-
-     lateinit var  st: String
+       lateinit var str: String
+    lateinit var str1: String
     lateinit var button : Button
     lateinit var textView : TextView
 
