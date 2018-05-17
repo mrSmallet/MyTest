@@ -29,5 +29,11 @@ class MainActivity : Activity(), View.OnClickListener{
 
         button.setOnClickListener(this)
 
+        var sergey : User = User("Сергей", 43)
+        sergey.isUser().toString()
+
+
+
+
     }
 }
